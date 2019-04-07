@@ -10,3 +10,6 @@ This is mandatory assignment no. 2 containing: EDA, pre-processing, SMOTE, Class
 ML MA 03:
 This is mandatory assignment no. 3 containing: a simple handmade implementation of a Naive Bayes Document Classifier with data loading, feature exploration, fit method, predict method and implementation.
 
+ML MA 04:
+This is mandatory assignment no. 3 containing: a Logistic Regression model applied on NASA's Challenger Space Shuttle O-Rings dataset. The goal is to predict space shuttle component fail based on the temperature at launch. 
+
